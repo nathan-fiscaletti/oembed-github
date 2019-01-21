@@ -43,9 +43,9 @@ All URL's support using both `https` and `http`, as well as with `www.` or witho
 * `https://github.com/{username}/{repository}/issues/{issue}`
 * `https://gist.github.com/{gist}`
 
-### Patterns Used
+#### Patterns Used
 
-GitHub: 
+GitHub
 ```
 #^((http(s|)):\/\/|)(www.|)github.com(\/)(([a-z0-9-?&%_=]*))((\/([a-z0-9-?&%_=]*))|)(\/([a-z0-9-?&%_=]*)|)(\/([a-z0-9-?&%_=]*)|)(\/([a-z0-9-?&%_=]*)|)(\/([a-z0-9-?&%_=]*)|)#i
 ```
