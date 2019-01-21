@@ -69,6 +69,10 @@ You can customize the theme of all embeded content from the `oEmbed Github` opti
 <img src="https://i.imgur.com/HETw7DJ.png" alt="Gist">
 </p>
 
+## Attribution
+
+This plugin makes use of [gist-embed](https://github.com/blairvanderhoof/gist-embed) by [Blair Vanderhoof](https://github.com/blairvanderhoof)
+
 ## License
 
 oEmbed Github is licensed under GPLv3 (See [LICENSE](https://github.com/nathan-fiscaletti/oembed-github/blob/master/LICENSE))
