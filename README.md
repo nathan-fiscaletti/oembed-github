@@ -41,7 +41,7 @@ All URL's support using both `https` and `http`, as well as with `www.` or witho
 * `https://github.com/{username}/{repository}/pull/{pull}/commits/{commit}`
 * `https://github.com/{username}/{repository}/pull/{pull}`
 * `https://github.com/{username}/{repository}/issues/{issue}`
-* `https://gist.github.com/{gist}`
+* `https://gist.github.com/{username}/{gist}`
 
 #### Patterns Used
 
