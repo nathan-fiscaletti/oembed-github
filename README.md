@@ -43,6 +43,18 @@ All URL's support using both `https` and `http`, as well as with `www.` or witho
 * `https://github.com/{username}/{repository}/issues/{issue}`
 * `https://gist.github.com/{gist}`
 
+### Patterns Used
+
+GitHub: 
+```
+#^((http(s|)):\/\/|)(www.|)github.com(\/)(([a-z0-9-?&%_=]*))((\/([a-z0-9-?&%_=]*))|)(\/([a-z0-9-?&%_=]*)|)(\/([a-z0-9-?&%_=]*)|)(\/([a-z0-9-?&%_=]*)|)(\/([a-z0-9-?&%_=]*)|)#i
+```
+
+Gist
+```
+#^((http(s|)):\/\/|)gist.github.com\/([a-z0-9-?&%_=]*)\/([a-z0-9-?&%_=]*)(\/|)#i
+```
+
 ## GitHub API
 
 In order to avoid the GitHub API rate limit, you can provide your GitHub application `Client ID` and `Client Token` in the `oEmbed Github` options area within your Wordpress Admin dashboard.
