@@ -18,7 +18,9 @@ To manually install oEmbed Github clone this repository and place it's content w
 
 ### Install via Word Press
 
-> Awaiting approval
+1. Visit ‘Plugins > Add New’
+2. Search for ‘oembed-github’
+3. Activate oEmbed Github from your Plugins page.
 
 ## Supported Content
 
