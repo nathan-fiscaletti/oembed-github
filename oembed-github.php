@@ -180,7 +180,7 @@ class oEmbedGitHub
                             $result = update_option('oembed-github-stat-sub-header-font-color', '#777777', true);
                             $result = update_option('oembed-github-open-color', '#2cbe4e', true);
                             $result = update_option('oembed-github-closed-color', '#cb2431', true);
-                            $result = update_option('oembed-github-merged-color', '#6f42c', true);
+                            $result = update_option('oembed-github-merged-color', '#6f42c1', true);
                             $result = update_option('oembed-github-stats-secondary-color', '#666666', true);
                             $result = update_option('oembed-github-logo-color', '#666666', true);
 
