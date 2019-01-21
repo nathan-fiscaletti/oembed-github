@@ -3,6 +3,12 @@ A plugin for WordPress that provides oEmbed services for GitHub.
 
 ## Installation
 
+### Install via your WordPress website
+
+1. Visit ‘Plugins > Add New’
+2. Search for ‘oembed-github’
+3. Activate oEmbed Github from your Plugins page.
+
 ### Manual Installation
 
 To manually install oEmbed Github clone this repository and place it's content within a folder named `oembed-github` within your `wp-content/plugins` directory. Once you are finished, visit your Plugins Page and activate the oEmbed Github plugin.
@@ -15,12 +21,6 @@ To manually install oEmbed Github clone this repository and place it's content w
 ------ oembed-github.php
 ------ LICENSE
 ```
-
-### Install via your WordPress website
-
-1. Visit ‘Plugins > Add New’
-2. Search for ‘oembed-github’
-3. Activate oEmbed Github from your Plugins page.
 
 ## Supported Content
 
