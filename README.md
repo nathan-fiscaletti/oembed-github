@@ -16,6 +16,10 @@ To manually install oEmbed Github clone this repository and place it's content w
 ------ LICENSE
 ```
 
+### Install via Word Press
+
+> Awaiting approval
+
 ## Supported Content
 
 * Profiles
