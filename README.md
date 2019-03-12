@@ -1,6 +1,27 @@
 # oEmbed Github
 A plugin for WordPress that provides oEmbed services for GitHub.
 
+## Supported Content
+
+* Profiles
+* Repositories
+* Commits
+* Pull Requests
+* Issues
+* Gists
+
+## Supported URL's
+
+All URL's support using both `https` and `http`, as well as with `www.` or without `www.` (Gists excluded)
+
+* `https://github.com/{username}`
+* `https://github.com/{username}/{repository}`
+* `https://github.com/{username}/{repository}/commit/{commit}`
+* `https://github.com/{username}/{repository}/pull/{pull}/commits/{commit}`
+* `https://github.com/{username}/{repository}/pull/{pull}`
+* `https://github.com/{username}/{repository}/issues/{issue}`
+* `https://gist.github.com/{username}/{gist}`
+
 ## Installation
 
 ### Install via your WordPress website
@@ -24,27 +45,6 @@ To manually install oEmbed Github [download this repository as a zip file](https
 ------ LICENSE
 ------ . . .
 ```
-
-## Supported Content
-
-* Profiles
-* Repositories
-* Commits
-* Pull Requests
-* Issues
-* Gists
-
-## Supported URL's
-
-All URL's support using both `https` and `http`, as well as with `www.` or without `www.` (Gists excluded)
-
-* `https://github.com/{username}`
-* `https://github.com/{username}/{repository}`
-* `https://github.com/{username}/{repository}/commit/{commit}`
-* `https://github.com/{username}/{repository}/pull/{pull}/commits/{commit}`
-* `https://github.com/{username}/{repository}/pull/{pull}`
-* `https://github.com/{username}/{repository}/issues/{issue}`
-* `https://gist.github.com/{username}/{gist}`
 
 #### Patterns Used
 
